@@ -1,0 +1,76 @@
+
+body, h1, h2, h3, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: black;
+    color: #333;
+    background-image: url(cuscuz.png);
+    background-repeat:round;
+}
+
+
+header {
+    background: black;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+
+main {
+    padding: 1rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+.recipe {
+    background: cornsilk;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.recipe h2 {
+    margin-top: 0;
+}
+
+.recipe-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    font-style: italic;
+    color: #666;
+}
+
+.recipe-info span {
+    display: block;
+}
+
+.recipe img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    margin: 1rem 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+ul, ol {
+    margin: 1rem 0;
+}
+
+ul li, ol li {
+    margin-bottom: 0.5rem;
+}
+
