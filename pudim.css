@@ -9,12 +9,19 @@ body {
     line-height: 1.6;
     background-color: black;
     color: #333;
-    background-image: url(cuscuz.png);
+    background-image: url(imagens/fundo-pudim.png);
     background-repeat:round;
 }
 
+.logo{
+    display: flex;
+    margin: 0 auto;
+    width: auto;
+    margin-left:30px;
+}
 
 header {
+    display: flex;
     background: black;
     color: #fff;
     padding: 1rem 0;
@@ -23,6 +30,7 @@ header {
 
 header h1 {
     margin: 0;
+    margin-right: 40%;
 }
 
 
