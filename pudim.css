@@ -26,6 +26,8 @@ header {
     color: #fff;
     padding: 1rem 0;
     text-align: center;
+    justify-content: space-around;
+    gap: 25vw;
 }
 
 header h1 {
@@ -81,3 +83,7 @@ ul li, ol li {
     margin-bottom: 0.5rem;
 }
 
+::selection{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
