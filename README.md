@@ -1,6 +1,6 @@
 # **Menu de Restaurante - Projeto Final**
 
-## **Cadeira: Gerenciamento de Mudanças**
+## **Gerenciamento de Mudanças**
 **Professor:** Paulo  
 **Participantes:** Gustavo B. / Samuel M. / Vanessa B.
 
